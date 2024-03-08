@@ -19,3 +19,13 @@
 	border-radius: 50%;
 }
 
+.menu-bar{
+	height: 87vh;
+	margin-top: 2rem;
+	display: flex;
+	flex-direction: column;
+	gap:2rem;
+	font-size: 1rem;
+	justify-content: center;
+	position: relative;
+}
