@@ -26,8 +26,9 @@
 
 			return(
 				<div className="timer">
-					<h1>Name : Rituraj Goswami</h1>
-					<h1>Registration Number : 12101798</h1>
+					<h1>Name : Ayush Saini</h1>
+					<h1>Registration Number : 12114732
+					</h1>
 					<br />
 					<br />
 					<h2>Timer</h2>
