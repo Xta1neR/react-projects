@@ -1,0 +1,22 @@
+*{
+	background-color: paleturquoise;
+}
+
+form{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	
+}
+
+h2{
+	
+}
+
+label{
+	font-size: 20px;
+	padding: 5px;
+	border: 10px black;
+}
+
